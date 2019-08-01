@@ -4,7 +4,7 @@ Clone este projeto e mande um .zip com o resultado final.
 
 ## O que fazer?
 
-1. Criar uma API REST para CRUD de pedido
+1. Criar uma API REST para um CRUD de pedido
 2. Salvar as informações em algum banco de dados (relacional ou não-relacional).
 3. Gravar o valor do frete rateado por item. (Se der dízima periódica dividir os centavos)
 
